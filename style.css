@@ -15,17 +15,11 @@
     --img-color-hover:rgba(255, 255, 255, 0.832);
 }
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 
 body {
     background: linear-gradient(rgba(213, 169, 133, 0.627),
     rgba(204, 52, 52, 0.539));
-    height: 100vh;
+    height: 1200px;
 }
 
 body * {
