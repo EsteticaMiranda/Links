@@ -17,13 +17,12 @@
 
 
 body { 
-    padding-right: 50px;
     display: flex;
     text-align: center;
     justify-content: center;
     background: linear-gradient(rgba(213, 169, 133, 0.627),
     rgba(204, 52, 52, 0.539));
-    height: 1200px;
+    height: 1300px;
 }
 
 body * {
